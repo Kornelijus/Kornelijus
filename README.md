@@ -1,4 +1,6 @@
-### Hi there 👋
+### README in progress
+
+![Infinite Monke Theorem](infinite_monke_theorem.gif)
 
 <!--
 **Kornelijus/Kornelijus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
