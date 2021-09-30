@@ -2,6 +2,8 @@
 
 ![Infinite Monke Theorem](infinite_monke_theorem.gif)
 
+![Profile views](https://komarev.com/ghpvc/?username=Kornelijus&style=flat-square)
+
 <!--
 **Kornelijus/Kornelijus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
