@@ -1,6 +1,6 @@
 ### README in progress
 
-![Infinite Monke Theorem](infinite_monke_theorem.gif)
+![infinite_monke_theorem](https://user-images.githubusercontent.com/16837066/216097604-fb6d1239-71c7-41fc-aefe-b44d595d77a6.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kornelijus&style=flat-square)
 
