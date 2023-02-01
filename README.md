@@ -1,8 +1,9 @@
 ### README in progress
 
-![infinite_monke_theorem](https://user-images.githubusercontent.com/16837066/216097604-fb6d1239-71c7-41fc-aefe-b44d595d77a6.gif)
-
 ![Profile views](https://komarev.com/ghpvc/?username=Kornelijus&style=flat-square)
+
+![Infinite Monke Theorem](https://user-images.githubusercontent.com/16837066/216099118-352205f7-92f5-4e73-b4d8-ac56c063e472.gif)
+
 
 <!--
 **Kornelijus/Kornelijus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
